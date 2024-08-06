@@ -7,3 +7,5 @@ This project aims to develop a Large Language Model (LLM) capable of answering q
 The details about this project's implementation are in the notebook. 
 
 The details about the adapters are in this link: [QLora Adapters](https://huggingface.co/gioandrade/llama3.1-instruction-response)
+
+Drive folder wiht all the work: https://drive.google.com/drive/folders/10e4688uJLEHmMgqeDBRR30dB1Trhsyid?usp=sharing
